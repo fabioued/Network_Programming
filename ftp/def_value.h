@@ -1,0 +1,5 @@
+#define MAXLINE 3019
+#define NUMOFCLIENT 20
+#define LENOFNICK 20
+#define RECV_BUFF 1024 * 1024
+#define SEND_BUFF 128 * 1024
